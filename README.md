@@ -1,136 +1,132 @@
-<!-- ========================================================= -->
-
-<!--                    BITS OF DANYA                          -->
-
-<!-- ========================================================= -->
-
 <div align="center">
 
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:A3FF12,45:00C2FF,100:8B5CF6&text=DANIIL%20CHEPKO&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=ML%20%26%20Software%20Engineer%20%C2%B7%20Tech%20Lead&descSize=19&descAlignY=57&animation=fadeIn"
-/>
+# DANIIL CHEPKO
 
-<img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2400&pause=700&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Machine+Learning+%C3%97+Backend+%C3%97+Web+%C3%97+Mobile;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Go+%C2%B7+Python;Building+products+from+architecture+to+production;AI+systems+%C2%B7+Platforms+%C2%B7+Product+Engineering"
-alt="Typing SVG"
-/>
+### ML & Software Engineer · Tech Lead · Product Builder
 
-<br/>
+<p>
+  I build production ML systems, backend services, web products and mobile applications —<br/>
+  from the first architecture decision to a working release.
+</p>
 
-<a href="https://t.me/bits_of_danya">
-  <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
+<p>
+  <a href="https://t.me/bits_of_danya">
+    <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" />
+  </a>
+  <a href="https://github.com/BitsOfDanya">
+    <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
 
-<a href="https://github.com/BitsOfDanya">
-  <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
+<p>
+  <img src="https://img.shields.io/badge/ML_%2F_AI-8B5CF6?style=flat-square" alt="ML / AI" />
+  <img src="https://img.shields.io/badge/BACKEND-0284C7?style=flat-square" alt="Backend" />
+  <img src="https://img.shields.io/badge/FRONTEND-EC4899?style=flat-square" alt="Frontend" />
+  <img src="https://img.shields.io/badge/MOBILE-10B981?style=flat-square" alt="Mobile" />
+  <img src="https://img.shields.io/badge/ARCHITECTURE-A3FF12?style=flat-square&labelColor=111827&color=A3FF12" alt="Architecture" />
+</p>
 
-<br/><br/>
-
-<b>ML / AI</b>
- ·  <b>Backend</b>
- ·  <b>Frontend</b>
- ·  <b>Mobile</b>
- ·  <b>Architecture</b>
-
-<br/><br/>
-
-<sub>Saint Petersburg · Building real software and ML systems</sub>
+<sub>Saint Petersburg · Engineering complete products, not isolated components</sub>
 
 </div>
 
 ---
 
-# `01 / ABOUT`
+## `01 / PROFILE`
 
 <table>
 <tr>
-<td width="66%" valign="top">
+<td width="64%" valign="top">
 
-## Hi, I'm Daniil.
+### Hi, I'm Daniil.
 
-I'm an **ML & Software Engineer / Tech Lead** working across machine learning and modern product development.
+I'm a **Machine Learning Engineer, Software Engineer and Tech Lead** working across applied AI and product engineering.
 
-My strongest engineering direction is **Machine Learning**, especially Computer Vision, video understanding, NLP, embeddings and multimodal systems.
+My strongest specialization is **production Machine Learning**: Computer Vision, video understanding, NLP, embeddings, retrieval and multimodal systems. At the same time, I design and build the software around models — APIs, databases, backend services, web interfaces, mobile applications, infrastructure and delivery pipelines.
 
-But my work is not limited to ML.
+I am most useful where a product needs one technical picture instead of disconnected teams and technologies:
 
-I build **backend services, web applications and mobile products**, design databases and APIs, work with infrastructure and make technical decisions across the complete product lifecycle.
+> **ML × Backend × Web × Mobile × Product Architecture**
 
-My preferred type of work is where several areas meet:
-
-**ML + Backend + Frontend + Mobile + Product Architecture**
-
-I care less about adding another technology to a stack and more about making all parts of a system work correctly together.
+I care about measurable product value, maintainable architecture and actually shipping the result.
 
 </td>
+<td width="36%" valign="top">
 
-<td width="34%" valign="top">
-
-### `PROFILE`
+### `SYSTEM.IDENTITY`
 
 ```yaml
 name: Daniil Chepko
+username: BitsOfDanya
 
 roles:
   - ML Engineer
   - Software Engineer
   - Tech Lead
 
-areas:
-  - ML / AI
-  - Backend
-  - Web
-  - Mobile
-  - Architecture
+location: Saint Petersburg
 
-location:
-  Saint Petersburg
-
-username:
-  BitsOfDanya
+working_mode:
+  - research
+  - architecture
+  - engineering
+  - delivery
 ```
 
 </td>
 </tr>
 </table>
 
-<br/>
+<table>
+<tr>
+<td align="center" width="25%">
 
-<div align="center">
+### `3+`
 
-### `IDEA  →  ARCHITECTURE  →  ENGINEERING  →  PRODUCTION`
+Years in production ML
 
-</div>
+</td>
+<td align="center" width="25%">
+
+### `50+`
+
+Hackathon wins & prizes
+
+</td>
+<td align="center" width="25%">
+
+### `5`
+
+Engineering directions
+
+</td>
+<td align="center" width="25%">
+
+### `0 → 1`
+
+Idea to production
+
+</td>
+</tr>
+</table>
 
 ---
 
-# `02 / ENGINEERING STACK`
+## `02 / ENGINEERING STACK`
 
 <div align="center">
 
-### Languages & Core
+### Languages
 
-<br/>
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,java,cpp,c,dart,html,css&theme=dark" alt="Python, Go, TypeScript, JavaScript, Java, C++, C, Dart, HTML and CSS" />
 
-<img src="https://skillicons.dev/icons?i=python,go,ts,js,dart,html,css&theme=dark" />
+### Frameworks & Platforms
 
-<br/><br/>
+<img src="https://skillicons.dev/icons?i=pytorch,opencv,react,nextjs,vite,nodejs,fastapi,flutter,tailwind&theme=dark" alt="PyTorch, OpenCV, React, Next.js, Vite, Node.js, FastAPI, Flutter and Tailwind CSS" />
 
-### Platforms & Frameworks
+### Data, Infrastructure & Delivery
 
-<br/>
-
-<img src="https://skillicons.dev/icons?i=pytorch,react,nextjs,vite,flutter,fastapi,tailwind&theme=dark" />
-
-<br/><br/>
-
-### Data & Infrastructure
-
-<br/>
-
-<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux,git,github,githubactions&theme=dark" />
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux,git,github,githubactions,firebase&theme=dark" alt="PostgreSQL, Redis, Docker, Nginx, Linux, Git, GitHub, GitHub Actions and Firebase" />
 
 </div>
 
@@ -138,510 +134,421 @@ username:
 
 <table>
 <tr>
-
 <td width="25%" valign="top">
 
-## `ML / AI`
-
-<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
-<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
-
-<br/><br/>
+### 🟣 `ML / AI`
 
 **Core**
 
-`Python`
-`PyTorch`
-`OpenCV`
+`Python` · `PyTorch` · `OpenCV`
 
 **Applied ML**
 
-`Computer Vision`
-`Video Understanding`
-`Classification`
-`NLP`
-`Transformers`
-`Embeddings`
+`Computer Vision`  
+`Video Understanding`  
+`Classification`  
+`NLP`  
+`Transformers`  
+`Embeddings`  
 `Multimodal ML`
 
 **AI Systems**
 
-`RAG`
-`LLM APIs`
-`LangChain`
-`LangGraph`
-`Semantic Retrieval`
+`RAG`  
+`LLM APIs`  
+`LangChain`  
+`LangGraph`  
+`Semantic Retrieval`  
 `Vector Search`
 
-**Engineering**
-
-`Training`
-`Evaluation`
-`Inference`
-`ML Pipelines`
-
 </td>
-
 <td width="25%" valign="top">
 
-## `BACKEND`
-
-<img src="https://img.shields.io/badge/API-00C2FF?style=flat-square"/>
-<img src="https://img.shields.io/badge/SERVICES-0284C7?style=flat-square"/>
-
-<br/><br/>
-
-**Languages**
-
-`Go`
-`Python`
-
-**Frameworks**
-
-`Gin`
-`chi`
-`FastAPI`
-
-**API**
-
-`REST`
-`OpenAPI`
-`Swagger`
-`WebSocket`
-
-**Data**
-
-`PostgreSQL`
-`pgx`
-`Redis`
-`pgvector`
-
-**Systems**
-
-`Auth`
-`Workers`
-`Object Storage`
-`Service Architecture`
-
-</td>
-
-<td width="25%" valign="top">
-
-## `WEB`
-
-<img src="https://img.shields.io/badge/WEB-EC4899?style=flat-square"/>
-<img src="https://img.shields.io/badge/PRODUCT-F43F5E?style=flat-square"/>
-
-<br/><br/>
+### 🔵 `BACKEND`
 
 **Core**
 
-`TypeScript`
-`JavaScript`
-`React`
+`Go` · `Python` · `SQL`
 
 **Frameworks**
 
-`Next.js`
-`Vite`
+`Gin`  
+`chi`  
+`FastAPI`  
+`Node.js`
 
-**UI**
+**Engineering**
 
-`Tailwind CSS`
-`shadcn/ui`
-`HTML / CSS`
-
-**Products**
-
-`SaaS`
-`Dashboards`
-`Admin Panels`
-`Landing Pages`
-`Responsive UI`
-
-**Integration**
-
-`REST APIs`
-`Authentication`
-`Client State`
+`REST API`  
+`WebSocket`  
+`OpenAPI / Swagger`  
+`Authentication`  
+`Background Workers`  
+`Service Architecture`  
+`Object Storage`
 
 </td>
-
 <td width="25%" valign="top">
 
-## `MOBILE`
+### 🩷 `FRONTEND`
 
-<img src="https://img.shields.io/badge/MOBILE-22C55E?style=flat-square"/>
-<img src="https://img.shields.io/badge/NATIVE-10B981?style=flat-square"/>
+**Core**
 
-<br/><br/>
+`TypeScript` · `JavaScript`
+
+**Frameworks**
+
+`React`  
+`Next.js`  
+`Vite`
+
+**UI & Product**
+
+`Tailwind CSS`  
+`shadcn/ui`  
+`Responsive UI`  
+`Design Systems`  
+`Dashboards`  
+`Admin Panels`  
+`Landing Pages`  
+`SaaS Interfaces`
+
+</td>
+<td width="25%" valign="top">
+
+### 🟢 `MOBILE`
 
 **React ecosystem**
 
-`React Native`
+`React Native`  
 `Expo`
 
 **Flutter ecosystem**
 
-`Flutter`
+`Flutter`  
 `Dart`
-
-**Platforms**
-
-`iOS`
-`Android`
 
 **Engineering**
 
-`API Integration`
-`Authentication`
-`Navigation`
-`State`
-`Responsive UI`
-
-**Architecture**
-
-`Shared Backend`
-`Web + Mobile`
+`iOS / Android`  
+`App Architecture`  
+`API Integration`  
+`Authentication`  
+`Navigation`  
+`State Management`  
+`Cross-platform UI`
 
 </td>
-
 </tr>
 </table>
 
----
+<details>
+<summary><b>🧩 Open the extended engineering map</b></summary>
 
-## `INFRA / DATA / DELIVERY`
+<br/>
 
 <table>
 <tr>
-
 <td width="33%" valign="top">
 
-### Infrastructure
+### `DATA`
 
-`Docker`
-
-`Docker Compose`
-
-`Linux`
-
-`Nginx`
-
-`Networking`
-
-`Environment Configuration`
+- PostgreSQL
+- Redis
+- SQL
+- pgvector
+- Vector search
+- S3-compatible storage
+- MinIO
+- Firebase
 
 </td>
-
 <td width="33%" valign="top">
 
-### Data
+### `INFRASTRUCTURE`
 
-`PostgreSQL`
-
-`Redis`
-
-`pgvector`
-
-`SQL`
-
-`Vector Search`
-
-`S3-compatible Storage`
-
-`MinIO`
+- Docker
+- Docker Compose
+- Linux
+- Nginx
+- Networking
+- Environment configuration
+- Observability basics
+- Deployment
 
 </td>
-
 <td width="33%" valign="top">
 
-### Delivery
+### `DELIVERY`
 
-`Git`
-
-`GitHub`
-
-`GitHub Actions`
-
-`CI/CD`
-
-`Netlify`
-
-`API Documentation`
-
-`Deployment`
+- Git / GitHub
+- GitHub Actions
+- CI/CD
+- API documentation
+- Testing strategy
+- Release preparation
+- Netlify
+- Production handoff
 
 </td>
+</tr>
+<tr>
+<td width="33%" valign="top">
 
+### `ARCHITECTURE`
+
+- System design
+- API design
+- Data modeling
+- Service decomposition
+- Integration design
+- Technical strategy
+- MVP → production
+
+</td>
+<td width="33%" valign="top">
+
+### `PRODUCT`
+
+- Technical discovery
+- Scope definition
+- Rapid prototyping
+- Product analytics
+- Cross-functional work
+- Engineering leadership
+- Delivery ownership
+
+</td>
+<td width="33%" valign="top">
+
+### `ADDITIONAL CORE`
+
+- Java
+- C++
+- C
+- Algorithms
+- Data structures
+- Computer networks
+- System administration
+
+</td>
 </tr>
 </table>
 
+</details>
+
 ---
 
-# `03 / HOW THE STACK CONNECTS`
+## `03 / HOW THE SYSTEM CONNECTS`
 
 ```mermaid
 flowchart TB
+    IDEA["PRODUCT / IDEA"]
 
-    P["PRODUCT / IDEA"]
+    IDEA --> ML["ML / AI<br/>PyTorch · CV · NLP · RAG"]
+    IDEA --> BE["BACKEND<br/>Go · Python · APIs"]
+    IDEA --> FE["WEB<br/>React · Next.js · TypeScript"]
+    IDEA --> MB["MOBILE<br/>React Native · Expo · Flutter"]
 
-    P --> WEB
-    P --> MOB
-    P --> BE
-    P --> ML
+    ML --> CORE["PRODUCT SERVICES"]
+    BE --> CORE
+    FE --> CORE
+    MB --> CORE
 
-    WEB["WEB<br/>React · Next.js · TypeScript"]
-    MOB["MOBILE<br/>React Native · Expo · Flutter"]
-    BE["BACKEND<br/>Go · Python · FastAPI"]
-    ML["ML / AI<br/>PyTorch · CV · NLP · RAG"]
+    CORE --> DATA["DATA LAYER<br/>PostgreSQL · Redis · pgvector"]
+    DATA --> SHIP["DELIVERY<br/>Docker · Linux · CI/CD"]
+    SHIP --> PROD["PRODUCTION"]
 
-    WEB --> API
-    MOB --> API
-    ML --> API
-
-    API["SERVICES / APIs"]
-
-    API --> DATA
-    API --> CACHE
-    API --> STORE
-
-    DATA[("PostgreSQL / pgvector")]
-    CACHE[("Redis")]
-    STORE["Object Storage"]
-
-    DATA --> INFRA
-    CACHE --> INFRA
-    STORE --> INFRA
-
-    INFRA["INFRASTRUCTURE<br/>Docker · Linux · CI/CD"]
-    INFRA --> PROD["PRODUCTION"]
-
-    style P fill:#8B5CF6,color:#fff,stroke:#8B5CF6
-    style WEB fill:#EC4899,color:#fff,stroke:#EC4899
-    style MOB fill:#10B981,color:#fff,stroke:#10B981
-    style BE fill:#0284C7,color:#fff,stroke:#0284C7
-    style ML fill:#7C3AED,color:#fff,stroke:#7C3AED
-    style API fill:#111827,color:#fff,stroke:#00C2FF
+    style IDEA fill:#8B5CF6,color:#FFFFFF,stroke:#8B5CF6
+    style ML fill:#6D28D9,color:#FFFFFF,stroke:#8B5CF6
+    style BE fill:#0369A1,color:#FFFFFF,stroke:#38BDF8
+    style FE fill:#BE185D,color:#FFFFFF,stroke:#F472B6
+    style MB fill:#047857,color:#FFFFFF,stroke:#34D399
+    style CORE fill:#111827,color:#FFFFFF,stroke:#94A3B8
+    style DATA fill:#111827,color:#FFFFFF,stroke:#38BDF8
+    style SHIP fill:#111827,color:#FFFFFF,stroke:#A3FF12
     style PROD fill:#A3FF12,color:#08090B,stroke:#A3FF12
 ```
 
 <div align="center">
 
-<sub>
-Different stacks. One product.
-</sub>
+**Different stacks. One technical system. One product outcome.**
 
 </div>
 
 ---
 
-# `04 / SELECTED PROJECTS`
+## `04 / SELECTED PRODUCTS`
 
 <table>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### `01`
+### `01 / CADIO.`
 
-# Cadio.
+#### SportsTech · Web · Mobile
 
-**SportsTech · Platform**
+Digital ecosystem for athletes, sports communities, clubs and event organizers. It connects discovery, events, participant experiences and organizer tools across web and mobile products.
 
-Digital ecosystem for athletes, sports communities, clubs and event organizers.
-
-The product brings together community discovery, events, participant experiences and organizer tools across web and mobile.
-
-`Web` · `Mobile` · `Platform` · `SportsTech`
+`Next.js` · `TypeScript` · `React` · `Flutter` · `PostgreSQL`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `02`
+### `02 / TRUSTDESK`
 
-# TrustDesk
+#### AI · B2B SaaS · Knowledge Work
 
-**AI · B2B SaaS**
+AI-powered workspace for document intelligence, risk analysis, decision rooms, knowledge retrieval and auditable collaboration inside organizations.
 
-AI-powered workspace focused on business documents, knowledge and decision-making.
-
-The product combines document intelligence, risks, AI-assisted workflows and collaboration tools.
-
-`AI` · `SaaS` · `RAG` · `Documents`
+`Next.js` · `Go` · `FastAPI` · `RAG` · `PostgreSQL` · `Redis`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### `03`
+### `03 / POLYK`
 
-# PolyK
+#### EdTech · Community · Marketplace
 
-**EdTech · Community**
+University-focused ecosystem built around teachers, reviews, educational materials, mentoring and student services — with a shared platform for students to find practical help.
 
-University-focused ecosystem combining teachers, reviews, educational materials, mentoring and student services.
-
-`EdTech` · `Community` · `Marketplace` · `Platform`
+`React` · `Vite` · `TypeScript` · `Go` · `PostgreSQL`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `04`
+### `04 / KARETA`
 
-# KARETA
+#### Gaming · Social Platform
 
-**Gaming · Social Platform**
+Gaming community platform combining social content, profiles, chats, tournaments, marketplace mechanics and user-created experiences.
 
-Gaming-oriented community platform combining social content, profiles, communication, tournaments, marketplace mechanics and user-created experiences.
-
-`Gaming` · `Mobile` · `Community` · `Marketplace`
+`Mobile` · `Backend` · `Social` · `Marketplace` · `Gaming`
 
 </td>
-
 </tr>
-
 <tr>
-
 <td width="50%" valign="top">
 
-### `05`
+### `05 / SMARTBLOODTEST`
 
-# SmartBloodTest
-
-**MedTech · Computer Vision**
+#### MedTech · Image Analysis
 
 Software workflow for laboratory image analysis and blood-group phenotyping with preliminary automated analysis and remote validation by a laboratory specialist.
 
-`MedTech` · `Image Analysis` · `Web` · `Mobile`
+`Computer Vision` · `Backend` · `Web` · `Mobile` · `MedTech`
 
 </td>
-
 <td width="50%" valign="top">
 
-### `06`
+### `06 / ML & HACKATHON R&D`
 
-# ML / Hackathon R&D
+#### AI · Engineering · Rapid Prototyping
 
-**AI · Engineering · Rapid Prototyping**
+Applied projects across Computer Vision, NLP, multimodal ML, retrieval, LLM agents and end-to-end product prototypes built under hard time and resource constraints.
 
-Applied technical projects across Computer Vision, NLP, multimodal ML, retrieval, LLM agents and complete product prototypes.
-
-`ML` · `AI` · `Backend` · `R&D`
+`ML` · `AI Systems` · `Backend` · `Architecture` · `Product`
 
 </td>
-
 </tr>
-
 </table>
+
+<details>
+<summary><b>⚡ What I own inside a product</b></summary>
+
+<br/>
+
+| Stage | What I do | Typical output |
+|---|---|---|
+| `01 · DISCOVER` | Turn a vague idea into a technical problem | Requirements, risks, scope, success metrics |
+| `02 · DESIGN` | Select architecture and define system boundaries | System design, API contracts, data model |
+| `03 · BUILD` | Implement the critical product layers | ML pipeline, backend, web or mobile client |
+| `04 · INTEGRATE` | Connect services, data and user flows | End-to-end working product scenario |
+| `05 · SHIP` | Prepare the system for real usage | Docker, CI/CD, documentation, deployment |
+| `06 · IMPROVE` | Measure quality and remove bottlenecks | Evaluation, analytics, performance iteration |
+
+</details>
 
 ---
 
-# `05 / WHAT I BUILD`
+## `05 / ENGINEERING MODES`
 
 <table>
 <tr>
+<td align="center" width="20%">
 
-<td width="25%" align="center">
+### 🧠 ML
 
-## ML
-
-Models
-Pipelines
+Models  
+Evaluation  
+Pipelines  
 Retrieval
-Multimodal
-AI integrations
 
 </td>
+<td align="center" width="20%">
 
-<td width="25%" align="center">
+### ⚙️ Backend
 
-## Backend
-
-APIs
-Services
-Databases
+APIs  
+Services  
+Databases  
 Workers
-Integrations
 
 </td>
+<td align="center" width="20%">
 
-<td width="25%" align="center">
+### 🖥️ Web
 
-## Web / Mobile
-
-Web Apps
-SaaS
-Dashboards
-Native Apps
+SaaS  
+Dashboards  
+Admin tools  
 Interfaces
 
 </td>
+<td align="center" width="20%">
 
-<td width="25%" align="center">
+### 📱 Mobile
 
-## Architecture
-
-System Design
-Technical Strategy
-Infrastructure
-Product Engineering
-Tech Leadership
+iOS / Android  
+Cross-platform  
+Integration  
+UX flows
 
 </td>
+<td align="center" width="20%">
 
+### 🧭 Lead
+
+Architecture  
+Strategy  
+Delivery  
+Ownership
+
+</td>
 </tr>
 </table>
 
-<br/>
-
-```text
-                     ┌──────────────────────┐
-                     │      PRODUCT         │
-                     └──────────┬───────────┘
-                                │
-        ┌───────────────────────┼───────────────────────┐
-        │                       │                       │
-        ▼                       ▼                       ▼
-      ML / AI                BACKEND              WEB / MOBILE
-        │                       │                       │
-        └───────────────────────┼───────────────────────┘
-                                │
-                                ▼
-                         INFRASTRUCTURE
-                                │
-                                ▼
-                           PRODUCTION
-```
-
----
-
-# `06 / CURRENT FOCUS`
-
 <div align="center">
 
-<img src="https://img.shields.io/badge/PRODUCTION_ML-8B5CF6?style=for-the-badge" />
-<img src="https://img.shields.io/badge/GO_BACKEND-0284C7?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REACT_%2F_NEXT.JS-EC4899?style=for-the-badge" />
-<img src="https://img.shields.io/badge/REACT_NATIVE_%2F_EXPO-10B981?style=for-the-badge" />
-<img src="https://img.shields.io/badge/PRODUCT_ARCHITECTURE-A3FF12?style=for-the-badge&labelColor=111827&color=A3FF12" />
+<img src="https://img.shields.io/badge/PRODUCTION_ML-8B5CF6?style=for-the-badge" alt="Production ML" />
+<img src="https://img.shields.io/badge/GO_BACKEND-0284C7?style=for-the-badge" alt="Go Backend" />
+<img src="https://img.shields.io/badge/REACT_%2F_NEXT.JS-EC4899?style=for-the-badge" alt="React / Next.js" />
+<img src="https://img.shields.io/badge/REACT_NATIVE_%2F_EXPO-10B981?style=for-the-badge" alt="React Native / Expo" />
+<img src="https://img.shields.io/badge/PRODUCT_ARCHITECTURE-A3FF12?style=for-the-badge&labelColor=111827&color=A3FF12" alt="Product Architecture" />
 
 </div>
 
-<br/>
+---
+
+## `06 / CURRENT FOCUS`
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### Engineering
+### `ENGINEERING`
 
 ```yaml
 web:
@@ -662,23 +569,22 @@ backend:
 ```
 
 </td>
-
 <td width="50%" valign="top">
 
-### ML / AI
+### `INTELLIGENCE`
 
 ```yaml
-ml:
+machine_learning:
   - Computer Vision
   - Video Understanding
   - NLP
   - Multimodal ML
 
-ai:
+ai_systems:
   - Embeddings
   - Retrieval
   - RAG
-  - LLM Systems
+  - LLM Applications
 ```
 
 </td>
@@ -687,53 +593,45 @@ ai:
 
 ---
 
-# `07 / GITHUB ACTIVITY`
+## `07 / GITHUB SIGNAL`
 
 <div align="center">
 
-<img
-width="100%"
-src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsOfDanya&theme=github_dark"
-/>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsOfDanya&theme=github_dark" />
+  <source media="(prefers-color-scheme: light)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsOfDanya&theme=github" />
+  <img width="100%" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsOfDanya&theme=github_dark" alt="Daniil Chepko GitHub contribution summary" />
+</picture>
 
 <br/>
 
-<img
-width="100%"
-src="https://github-readme-activity-graph.vercel.app/graph?username=BitsOfDanya&bg_color=0D1117&color=8B949E&title_color=FFFFFF&line=A3FF12&point=00C2FF&area_color=8B5CF6&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity"
-/>
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=BitsOfDanya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true" alt="GitHub statistics" />
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitsOfDanya&layout=compact&hide_border=true&theme=transparent&langs_count=10" alt="Most used languages" />
 
 </div>
+
+<sub>
+GitHub language cards reflect public repository bytes, not professional proficiency. The stack above is the intentional engineering profile.
+</sub>
 
 ---
 
 <div align="center">
 
-# `LET'S CONNECT`
+## `LET'S BUILD SOMETHING USEFUL`
 
-### ML · Backend · Web · Mobile · Product
+### ML · Backend · Frontend · Mobile · Architecture
 
-<br/>
+<p>
+  <a href="https://t.me/bits_of_danya">
+    <img src="https://img.shields.io/badge/START_A_CONVERSATION-@bits__of__danya-A3FF12?style=for-the-badge&logo=telegram&logoColor=08090B&labelColor=111827" alt="Contact Daniil on Telegram" />
+  </a>
+</p>
 
-<a href="https://t.me/bits_of_danya">
-  <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
-</a>
-
-<a href="https://github.com/BitsOfDanya">
-  <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
-### `BUILD → SHIP → IMPROVE`
-
-<br/>
+```text
+IDEA  →  ARCHITECTURE  →  ENGINEERING  →  PRODUCTION
+```
 
 <sub>Daniil Chepko · BitsOfDanya</sub>
 
 </div>
-
-<img
-width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:A3FF12,45:00C2FF,100:8B5CF6&reversal=true"
-/>
