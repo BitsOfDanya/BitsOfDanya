@@ -8,55 +8,65 @@
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=270&color=gradient&text=DANIIL%20CHEPKO&fontSize=52&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Tech%20Lead&descAlignY=58&animation=fadeIn"
+src="https://capsule-render.vercel.app/api?type=waving&height=280&section=header&color=0:A3FF12,45:00C2FF,100:8B5CF6&text=DANIIL%20CHEPKO&fontSize=54&fontColor=FFFFFF&fontAlignY=36&desc=ML%20%26%20Software%20Engineer%20%C2%B7%20Tech%20Lead&descSize=19&descAlignY=57&animation=fadeIn"
 />
 
 <img
-src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=850&color=A3FF12&center=true&vCenter=true&repeat=true&width=900&height=55&lines=Machine+Learning+%C3%97+Software+Engineering;ML+%E2%86%92+Backend+%E2%86%92+Frontend+%E2%86%92+Production;Building+AI-powered+products+and+platforms;Turning+ideas+into+real+systems"
+src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&duration=2400&pause=700&color=00C2FF&center=true&vCenter=true&repeat=true&width=900&height=60&lines=Machine+Learning+%C3%97+Backend+%C3%97+Web+%C3%97+Mobile;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Go+%C2%B7+Python;Building+products+from+architecture+to+production;AI+systems+%C2%B7+Platforms+%C2%B7+Product+Engineering"
 alt="Typing SVG"
 />
 
 <br/>
 
 <a href="https://t.me/bits_of_danya">
-  <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-A3FF12?style=for-the-badge&logo=telegram&logoColor=08090B&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
 </a>
 
 <a href="https://github.com/BitsOfDanya">
-  <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-A3FF12?style=for-the-badge&logo=github&logoColor=08090B&labelColor=0D1117"/>
+  <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-181717?style=for-the-badge&logo=github&logoColor=white"/>
 </a>
 
 <br/><br/>
 
-<sub>
-Machine Learning · Backend · Frontend · Mobile · Architecture · Product Engineering
-</sub>
+<b>ML / AI</b>
+ ·  <b>Backend</b>
+ ·  <b>Frontend</b>
+ ·  <b>Mobile</b>
+ ·  <b>Architecture</b>
+
+<br/><br/>
+
+<sub>Saint Petersburg · Building real software and ML systems</sub>
 
 </div>
 
 ---
 
+# `01 / ABOUT`
+
 <table>
 <tr>
-<td width="68%" valign="top">
+<td width="66%" valign="top">
 
-# `ABOUT ME`
+## Hi, I'm Daniil.
 
-I'm **Daniil Chepko** — a **Machine Learning Engineer, Software Engineer and Tech Lead**.
+I'm an **ML & Software Engineer / Tech Lead** working across machine learning and modern product development.
 
-My core professional focus is **production Machine Learning**: video and image understanding, classification, NLP, embeddings, retrieval and multimodal systems.
+My strongest engineering direction is **Machine Learning**, especially Computer Vision, video understanding, NLP, embeddings and multimodal systems.
 
-At the same time, I work across the rest of the product stack — from backend architecture and databases to web/mobile interfaces, infrastructure and deployment.
+But my work is not limited to ML.
 
-I like projects where engineering disciplines are connected into one real system instead of existing as isolated pieces.
+I build **backend services, web applications and mobile products**, design databases and APIs, work with infrastructure and make technical decisions across the complete product lifecycle.
 
-**What I build:**
+My preferred type of work is where several areas meet:
 
-`ML Systems` · `Backend Services` · `Web Products` · `Mobile Apps` · `AI Products` · `Platforms`
+**ML + Backend + Frontend + Mobile + Product Architecture**
+
+I care less about adding another technology to a stack and more about making all parts of a system work correctly together.
 
 </td>
 
-<td width="32%" valign="top">
+<td width="34%" valign="top">
 
 ### `PROFILE`
 
@@ -68,15 +78,17 @@ roles:
   - Software Engineer
   - Tech Lead
 
-focus:
-  - Production ML
-  - Software Architecture
-  - AI Products
+areas:
+  - ML / AI
+  - Backend
+  - Web
+  - Mobile
+  - Architecture
 
 location:
   Saint Petersburg
 
-github:
+username:
   BitsOfDanya
 ```
 
@@ -88,23 +100,37 @@ github:
 
 <div align="center">
 
-### `RESEARCH  →  ML  →  ARCHITECTURE  →  ENGINEERING  →  PRODUCTION`
+### `IDEA  →  ARCHITECTURE  →  ENGINEERING  →  PRODUCTION`
 
 </div>
 
 ---
 
-# `TECH STACK`
+# `02 / ENGINEERING STACK`
 
 <div align="center">
 
-### Core
+### Languages & Core
 
-<img src="https://skillicons.dev/icons?i=python,pytorch,go,ts,js,react,nextjs,flutter,dart,postgres,redis,docker&theme=dark&perline=12" />
+<br/>
+
+<img src="https://skillicons.dev/icons?i=python,go,ts,js,dart,html,css&theme=dark" />
 
 <br/><br/>
 
-<img src="https://skillicons.dev/icons?i=fastapi,vite,tailwind,html,css,linux,git,github,githubactions,nginx&theme=dark&perline=10" />
+### Platforms & Frameworks
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=pytorch,react,nextjs,vite,flutter,fastapi,tailwind&theme=dark" />
+
+<br/><br/>
+
+### Data & Infrastructure
+
+<br/>
+
+<img src="https://skillicons.dev/icons?i=postgres,redis,docker,nginx,linux,git,github,githubactions&theme=dark" />
 
 </div>
 
@@ -112,42 +138,58 @@ github:
 
 <table>
 <tr>
+
 <td width="25%" valign="top">
 
-### `ML / AI`
+## `ML / AI`
 
-**Languages & frameworks**
+<img src="https://img.shields.io/badge/AI-8B5CF6?style=flat-square"/>
+<img src="https://img.shields.io/badge/ML-7C3AED?style=flat-square"/>
+
+<br/><br/>
+
+**Core**
 
 `Python`
 `PyTorch`
+`OpenCV`
 
-**Areas**
+**Applied ML**
 
 `Computer Vision`
 `Video Understanding`
+`Classification`
 `NLP`
 `Transformers`
 `Embeddings`
 `Multimodal ML`
-`Classification`
-`Semantic Search`
-`Retrieval`
+
+**AI Systems**
+
 `RAG`
-`LLM Systems`
+`LLM APIs`
+`LangChain`
+`LangGraph`
+`Semantic Retrieval`
+`Vector Search`
 
-**ML Engineering**
+**Engineering**
 
-`Training Pipelines`
+`Training`
 `Evaluation`
 `Inference`
-`Feature Extraction`
-`Model Integration`
+`ML Pipelines`
 
 </td>
 
 <td width="25%" valign="top">
 
-### `BACKEND`
+## `BACKEND`
+
+<img src="https://img.shields.io/badge/API-00C2FF?style=flat-square"/>
+<img src="https://img.shields.io/badge/SERVICES-0284C7?style=flat-square"/>
+
+<br/><br/>
 
 **Languages**
 
@@ -160,34 +202,46 @@ github:
 `chi`
 `FastAPI`
 
-**Engineering**
-
-`REST API`
-`WebSocket`
-`Authentication`
-`Background Jobs`
-`Service Architecture`
-`Repository Pattern`
-
 **API**
 
+`REST`
 `OpenAPI`
 `Swagger`
+`WebSocket`
+
+**Data**
+
+`PostgreSQL`
+`pgx`
+`Redis`
+`pgvector`
+
+**Systems**
+
+`Auth`
+`Workers`
+`Object Storage`
+`Service Architecture`
 
 </td>
 
 <td width="25%" valign="top">
 
-### `FRONTEND`
+## `WEB`
 
-**Languages**
+<img src="https://img.shields.io/badge/WEB-EC4899?style=flat-square"/>
+<img src="https://img.shields.io/badge/PRODUCT-F43F5E?style=flat-square"/>
+
+<br/><br/>
+
+**Core**
 
 `TypeScript`
 `JavaScript`
+`React`
 
 **Frameworks**
 
-`React`
 `Next.js`
 `Vite`
 
@@ -195,38 +249,55 @@ github:
 
 `Tailwind CSS`
 `shadcn/ui`
-`HTML`
-`CSS`
+`HTML / CSS`
 
-**Product**
+**Products**
 
+`SaaS`
 `Dashboards`
 `Admin Panels`
+`Landing Pages`
 `Responsive UI`
-`SaaS Interfaces`
+
+**Integration**
+
+`REST APIs`
+`Authentication`
+`Client State`
 
 </td>
 
 <td width="25%" valign="top">
 
-### `MOBILE`
+## `MOBILE`
 
-**Stack**
+<img src="https://img.shields.io/badge/MOBILE-22C55E?style=flat-square"/>
+<img src="https://img.shields.io/badge/NATIVE-10B981?style=flat-square"/>
+
+<br/><br/>
+
+**React ecosystem**
+
+`React Native`
+`Expo`
+
+**Flutter ecosystem**
 
 `Flutter`
 `Dart`
-
-**Workflows**
-
-`REST Integration`
-`Authentication`
-`State Management`
-`Responsive UI`
 
 **Platforms**
 
 `iOS`
 `Android`
+
+**Engineering**
+
+`API Integration`
+`Authentication`
+`Navigation`
+`State`
+`Responsive UI`
 
 **Architecture**
 
@@ -234,38 +305,20 @@ github:
 `Web + Mobile`
 
 </td>
+
 </tr>
 </table>
 
-<br/>
+---
+
+## `INFRA / DATA / DELIVERY`
 
 <table>
 <tr>
-<td width="33%" valign="top">
-
-### `DATA`
-
-`PostgreSQL`
-
-`pgx`
-
-`Redis`
-
-`pgvector`
-
-`SQL`
-
-`Vector Search`
-
-`Object Storage`
-
-`MinIO`
-
-</td>
 
 <td width="33%" valign="top">
 
-### `INFRA`
+### Infrastructure
 
 `Docker`
 
@@ -275,91 +328,165 @@ github:
 
 `Nginx`
 
-`CI/CD`
+`Networking`
 
-`GitHub Actions`
-
-`Netlify`
-
-`Service Deployment`
+`Environment Configuration`
 
 </td>
 
 <td width="33%" valign="top">
 
-### `AI ENGINEERING`
+### Data
 
-`LangChain`
+`PostgreSQL`
 
-`LangGraph`
+`Redis`
 
-`RAG`
+`pgvector`
 
-`Embeddings`
+`SQL`
 
-`Vector Retrieval`
+`Vector Search`
 
-`LLM APIs`
+`S3-compatible Storage`
 
-`ML Services`
-
-`AI Integration`
+`MinIO`
 
 </td>
+
+<td width="33%" valign="top">
+
+### Delivery
+
+`Git`
+
+`GitHub`
+
+`GitHub Actions`
+
+`CI/CD`
+
+`Netlify`
+
+`API Documentation`
+
+`Deployment`
+
+</td>
+
 </tr>
 </table>
 
 ---
 
+# `03 / HOW THE STACK CONNECTS`
+
+```mermaid
+flowchart TB
+
+    P["PRODUCT / IDEA"]
+
+    P --> WEB
+    P --> MOB
+    P --> BE
+    P --> ML
+
+    WEB["WEB<br/>React · Next.js · TypeScript"]
+    MOB["MOBILE<br/>React Native · Expo · Flutter"]
+    BE["BACKEND<br/>Go · Python · FastAPI"]
+    ML["ML / AI<br/>PyTorch · CV · NLP · RAG"]
+
+    WEB --> API
+    MOB --> API
+    ML --> API
+
+    API["SERVICES / APIs"]
+
+    API --> DATA
+    API --> CACHE
+    API --> STORE
+
+    DATA[("PostgreSQL / pgvector")]
+    CACHE[("Redis")]
+    STORE["Object Storage"]
+
+    DATA --> INFRA
+    CACHE --> INFRA
+    STORE --> INFRA
+
+    INFRA["INFRASTRUCTURE<br/>Docker · Linux · CI/CD"]
+    INFRA --> PROD["PRODUCTION"]
+
+    style P fill:#8B5CF6,color:#fff,stroke:#8B5CF6
+    style WEB fill:#EC4899,color:#fff,stroke:#EC4899
+    style MOB fill:#10B981,color:#fff,stroke:#10B981
+    style BE fill:#0284C7,color:#fff,stroke:#0284C7
+    style ML fill:#7C3AED,color:#fff,stroke:#7C3AED
+    style API fill:#111827,color:#fff,stroke:#00C2FF
+    style PROD fill:#A3FF12,color:#08090B,stroke:#A3FF12
+```
+
 <div align="center">
 
-# `SELECTED PROJECTS`
-
-### Products and systems I've worked on
+<sub>
+Different stacks. One product.
+</sub>
 
 </div>
 
+---
+
+# `04 / SELECTED PROJECTS`
+
 <table>
+
 <tr>
+
 <td width="50%" valign="top">
 
-## `01 / Cadio.`
+### `01`
 
-### SportsTech Platform
+# Cadio.
 
-An ecosystem for **sports communities, athletes, clubs, events and organizers**.
+**SportsTech · Platform**
 
-The product combines web and mobile experiences around discovering communities, participating in events and managing sports activities.
+Digital ecosystem for athletes, sports communities, clubs and event organizers.
 
-`SportsTech` · `Web` · `Mobile` · `Platform`
+The product brings together community discovery, events, participant experiences and organizer tools across web and mobile.
+
+`Web` · `Mobile` · `Platform` · `SportsTech`
 
 </td>
 
 <td width="50%" valign="top">
 
-## `02 / TrustDesk`
+### `02`
 
-### AI Workspace for Business
+# TrustDesk
 
-An AI-powered workspace for **documents, business knowledge and decision-making**.
+**AI · B2B SaaS**
 
-Focused on turning unstructured information into understandable summaries, risks, insights and collaborative workflows.
+AI-powered workspace focused on business documents, knowledge and decision-making.
 
-`AI` · `B2B SaaS` · `Documents` · `RAG`
+The product combines document intelligence, risks, AI-assisted workflows and collaboration tools.
+
+`AI` · `SaaS` · `RAG` · `Documents`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## `03 / PolyK`
+### `03`
 
-### Student Ecosystem
+# PolyK
 
-A digital ecosystem around university life — **teachers, reviews, educational materials, mentoring and student services**.
+**EdTech · Community**
 
-Built around making fragmented university knowledge easier to discover and use.
+University-focused ecosystem combining teachers, reviews, educational materials, mentoring and student services.
 
 `EdTech` · `Community` · `Marketplace` · `Platform`
 
@@ -367,154 +494,192 @@ Built around making fragmented university knowledge easier to discover and use.
 
 <td width="50%" valign="top">
 
-## `04 / KARETA`
+### `04`
 
-### Gaming Community Platform
+# KARETA
 
-A mobile platform designed around the gaming community.
+**Gaming · Social Platform**
 
-Combines **social content, user profiles, chats, gaming services, tournaments, a marketplace and user-created gaming experiences** inside one ecosystem.
+Gaming-oriented community platform combining social content, profiles, communication, tournaments, marketplace mechanics and user-created experiences.
 
-`Gaming` · `Social Platform` · `Mobile` · `Marketplace`
+`Gaming` · `Mobile` · `Community` · `Marketplace`
 
 </td>
+
 </tr>
 
 <tr>
+
 <td width="50%" valign="top">
 
-## `05 / SmartBloodTest`
+### `05`
 
-### MedTech / Image Analysis
+# SmartBloodTest
 
-A software product for working with **blood-group phenotyping and laboratory image analysis**.
+**MedTech · Computer Vision**
 
-The workflow combines image submission and preliminary automated analysis with a separate interface for **remote validation by a laboratory doctor**.
+Software workflow for laboratory image analysis and blood-group phenotyping with preliminary automated analysis and remote validation by a laboratory specialist.
 
-`MedTech` · `Image Analysis` · `Automation` · `Mobile / Web`
+`MedTech` · `Image Analysis` · `Web` · `Mobile`
 
 </td>
 
 <td width="50%" valign="top">
 
-## `06 / ML & Hackathon Projects`
+### `06`
 
-### Rapid R&D → Working Product
+# ML / Hackathon R&D
 
-Machine Learning and software projects built around real product cases, technical competitions and hackathons.
+**AI · Engineering · Rapid Prototyping**
 
-Experience includes **Computer Vision, NLP, multimodal ML, LLM agents, recommendation and retrieval systems, backend services and complete product prototypes**.
+Applied technical projects across Computer Vision, NLP, multimodal ML, retrieval, LLM agents and complete product prototypes.
 
-`ML` · `AI` · `R&D` · `Product Engineering`
+`ML` · `AI` · `Backend` · `R&D`
 
 </td>
+
 </tr>
+
 </table>
 
 ---
 
-# `WHAT I WORK WITH`
+# `05 / WHAT I BUILD`
+
+<table>
+<tr>
+
+<td width="25%" align="center">
+
+## ML
+
+Models
+Pipelines
+Retrieval
+Multimodal
+AI integrations
+
+</td>
+
+<td width="25%" align="center">
+
+## Backend
+
+APIs
+Services
+Databases
+Workers
+Integrations
+
+</td>
+
+<td width="25%" align="center">
+
+## Web / Mobile
+
+Web Apps
+SaaS
+Dashboards
+Native Apps
+Interfaces
+
+</td>
+
+<td width="25%" align="center">
+
+## Architecture
+
+System Design
+Technical Strategy
+Infrastructure
+Product Engineering
+Tech Leadership
+
+</td>
+
+</tr>
+</table>
+
+<br/>
 
 ```text
-                     ┌─────────────────────┐
-                     │       PRODUCT       │
-                     └──────────┬──────────┘
+                     ┌──────────────────────┐
+                     │      PRODUCT         │
+                     └──────────┬───────────┘
                                 │
-          ┌─────────────────────┼─────────────────────┐
-          │                     │                     │
-          ▼                     ▼                     ▼
-   ┌─────────────┐       ┌─────────────┐       ┌─────────────┐
-   │     ML      │       │   BACKEND   │       │  FRONTEND   │
-   │             │       │             │       │   MOBILE    │
-   │ CV / NLP    │       │ Go / Python │       │ React       │
-   │ Embeddings  │       │ APIs        │       │ Next.js     │
-   │ Multimodal  │       │ PostgreSQL  │       │ Flutter     │
-   │ RAG / LLM   │       │ Redis       │       │ TypeScript  │
-   └──────┬──────┘       └──────┬──────┘       └──────┬──────┘
-          │                     │                     │
-          └─────────────────────┼─────────────────────┘
+        ┌───────────────────────┼───────────────────────┐
+        │                       │                       │
+        ▼                       ▼                       ▼
+      ML / AI                BACKEND              WEB / MOBILE
+        │                       │                       │
+        └───────────────────────┼───────────────────────┘
                                 │
                                 ▼
-                    ┌───────────────────────┐
-                    │    INFRASTRUCTURE     │
-                    │                       │
-                    │ Docker · Linux · CI   │
-                    └───────────┬───────────┘
+                         INFRASTRUCTURE
                                 │
                                 ▼
-                    ┌───────────────────────┐
-                    │      PRODUCTION       │
-                    └───────────────────────┘
+                           PRODUCTION
 ```
 
 ---
+
+# `06 / CURRENT FOCUS`
+
+<div align="center">
+
+<img src="https://img.shields.io/badge/PRODUCTION_ML-8B5CF6?style=for-the-badge" />
+<img src="https://img.shields.io/badge/GO_BACKEND-0284C7?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REACT_%2F_NEXT.JS-EC4899?style=for-the-badge" />
+<img src="https://img.shields.io/badge/REACT_NATIVE_%2F_EXPO-10B981?style=for-the-badge" />
+<img src="https://img.shields.io/badge/PRODUCT_ARCHITECTURE-A3FF12?style=for-the-badge&labelColor=111827&color=A3FF12" />
+
+</div>
+
+<br/>
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-# `ML`
+### Engineering
 
-My strongest technical direction.
+```yaml
+web:
+  - TypeScript
+  - React
+  - Next.js
 
-I work with systems around:
+mobile:
+  - React Native
+  - Expo
+  - Flutter
 
-* video classification;
-* image understanding;
-* NLP;
-* embeddings;
-* semantic retrieval;
-* multimodal models;
-* model evaluation;
-* inference pipelines;
-* LLM / RAG integrations;
-* production ML.
-
-For me, ML is not only about training a model.
-
-```text
-DATA
-  +
-MODEL
-  +
-METRICS
-  +
-LATENCY
-  +
-BACKEND
-  +
-INFRA
-  +
-PRODUCT
-  =
-REAL ML SYSTEM
+backend:
+  - Go
+  - Python
+  - PostgreSQL
+  - Redis
 ```
 
 </td>
 
 <td width="50%" valign="top">
 
-# `ENGINEERING`
+### ML / AI
 
-I also build the systems surrounding ML.
+```yaml
+ml:
+  - Computer Vision
+  - Video Understanding
+  - NLP
+  - Multimodal ML
 
-That includes:
-
-* backend architecture;
-* REST APIs;
-* databases;
-* authentication;
-* background processing;
-* web applications;
-* mobile applications;
-* dashboards;
-* infrastructure;
-* deployment;
-* technical architecture.
-
-The goal is not to use as many technologies as possible.
-
-The goal is to choose the **right architecture for the product**.
+ai:
+  - Embeddings
+  - Retrieval
+  - RAG
+  - LLM Systems
+```
 
 </td>
 </tr>
@@ -522,102 +687,53 @@ The goal is to choose the **right architecture for the product**.
 
 ---
 
-# `CURRENT FOCUS`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/PRODUCTION_ML-A3FF12?style=for-the-badge&labelColor=0D1117&color=A3FF12" />
-<img src="https://img.shields.io/badge/MULTIMODAL_AI-A3FF12?style=for-the-badge&labelColor=0D1117&color=A3FF12" />
-<img src="https://img.shields.io/badge/BACKEND_ARCHITECTURE-A3FF12?style=for-the-badge&labelColor=0D1117&color=A3FF12" />
-<img src="https://img.shields.io/badge/AI_PRODUCTS-A3FF12?style=for-the-badge&labelColor=0D1117&color=A3FF12" />
-<img src="https://img.shields.io/badge/TECH_LEADERSHIP-A3FF12?style=for-the-badge&labelColor=0D1117&color=A3FF12" />
-
-</div>
-
-<br/>
-
-```yaml
-professional:
-  - production_machine_learning
-  - computer_vision
-  - video_understanding
-  - nlp
-  - embeddings
-  - multimodal_ai
-
-engineering:
-  - backend_architecture
-  - fullstack_product_engineering
-  - mobile
-  - databases
-  - infrastructure
-
-building:
-  - Cadio
-  - TrustDesk
-  - PolyK
-  - AI / ML systems
-
-interested_in:
-  - ambitious products
-  - hard engineering problems
-  - AI systems
-  - early-stage technology
-```
-
----
-
-# `GITHUB`
+# `07 / GITHUB ACTIVITY`
 
 <div align="center">
 
 <img
-height="170"
-src="https://github-readme-stats.vercel.app/api?username=BitsOfDanya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
-alt="GitHub Stats"
+width="100%"
+src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=BitsOfDanya&theme=github_dark"
 />
-
-<img
-height="170"
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitsOfDanya&layout=compact&hide_border=true&theme=transparent"
-alt="Top Languages"
-/>
-
-</div>
-
----
-
-<div align="center">
-
-# `LET'S BUILD SOMETHING`
-
-### ML · Software · Architecture · Product
-
-<br/>
-
-<a href="https://t.me/bits_of_danya">
-  <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-A3FF12?style=for-the-badge&logo=telegram&logoColor=08090B&labelColor=0D1117"/>
-</a>
-
-<a href="https://github.com/BitsOfDanya">
-  <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-A3FF12?style=for-the-badge&logo=github&logoColor=08090B&labelColor=0D1117"/>
-</a>
-
-<br/><br/>
-
-```text
-MACHINE LEARNING  ×  SOFTWARE ENGINEERING  ×  PRODUCT
-```
-
-<sub>
-Daniil Chepko · BitsOfDanya
-</sub>
-
-</div>
 
 <br/>
 
 <img
 width="100%"
-src="https://capsule-render.vercel.app/api?type=waving&height=150&section=footer&color=gradient"
+src="https://github-readme-activity-graph.vercel.app/graph?username=BitsOfDanya&bg_color=0D1117&color=8B949E&title_color=FFFFFF&line=A3FF12&point=00C2FF&area_color=8B5CF6&area=true&hide_border=true&radius=10&custom_title=Contribution%20Activity"
+/>
+
+</div>
+
+---
+
+<div align="center">
+
+# `LET'S CONNECT`
+
+### ML · Backend · Web · Mobile · Product
+
+<br/>
+
+<a href="https://t.me/bits_of_danya">
+  <img src="https://img.shields.io/badge/TELEGRAM-@bits__of__danya-26A5E4?style=for-the-badge&logo=telegram&logoColor=white"/>
+</a>
+
+<a href="https://github.com/BitsOfDanya">
+  <img src="https://img.shields.io/badge/GITHUB-BitsOfDanya-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<br/><br/>
+
+### `BUILD → SHIP → IMPROVE`
+
+<br/>
+
+<sub>Daniil Chepko · BitsOfDanya</sub>
+
+</div>
+
+<img
+width="100%"
+src="https://capsule-render.vercel.app/api?type=waving&height=160&section=footer&color=0:A3FF12,45:00C2FF,100:8B5CF6&reversal=true"
 />
