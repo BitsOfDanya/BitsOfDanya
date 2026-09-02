@@ -1,22 +1,29 @@
 <!--
 BitsOfDanya — GitHub Profile README
-No GitHub Actions required.
-External visual services:
-- readme-typing-svg
-- skillicons.dev
-- shields.io
-- github-readme-activity-graph
-- komarev profile views
+Premium single-file version
+No local assets required.
+
+Recommended GitHub bio:
+ML Engineer · Software Engineer · Tech Lead · Building production ML systems & digital products
+
+Recommended pinned repository descriptions:
+Cadio      — SportsTech platform for athletes, communities, clubs and event organizers.
+TrustDesk  — AI workspace for document intelligence, knowledge retrieval and decision-making.
+PolyK      — Student ecosystem for university knowledge, materials, mentoring and services.
+KARETA     — Gaming community platform with social, tournament and marketplace mechanics.
+SmartBloodTest — MedTech workflow for laboratory image analysis and specialist validation.
 -->
 
 <div align="center">
 
-# DANIIL CHEPKO
-
-### ML Engineer · Software Engineer · Tech Lead
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=210&section=header&text=DANIIL%20CHEPKO&fontSize=44&fontAlignY=38&desc=ML%20Engineer%20%C2%B7%20Software%20Engineer%20%C2%B7%20Tech%20Lead&descAlignY=58&color=0:0F172A,24:1D4ED8,55:7C3AED,100:A3FF12&fontColor=FFFFFF&animation=fadeIn"
+  alt="Daniil Chepko"
+/>
 
 <img
-  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=20&duration=2600&pause=900&color=38BDF8&center=true&vCenter=true&repeat=true&width=940&height=54&lines=Machine+Learning+%C3%97+Backend+%C3%97+Frontend+%C3%97+Mobile;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter;From+research+and+architecture+to+production"
+  src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=19&duration=2500&pause=850&color=38BDF8&center=true&vCenter=true&repeat=true&width=960&height=52&lines=Machine+Learning+%C3%97+Backend+%C3%97+Frontend+%C3%97+Mobile;Python+%C2%B7+Go+%C2%B7+TypeScript+%C2%B7+Java+%C2%B7+C%2B%2B;React+%C2%B7+Next.js+%C2%B7+React+Native+%C2%B7+Flutter;From+research+and+architecture+to+production"
   alt="Engineering focus"
 />
 
@@ -64,9 +71,9 @@ My strongest technical specialization is **Machine Learning**: Computer Vision, 
 
 Beyond ML, I build **backend services and APIs, data layers, web applications, mobile clients and infrastructure**, and I work with product and system architecture from early technical decisions to delivery.
 
-My background combines production ML, full-cycle product engineering, infrastructure and rapid R&D. I especially enjoy projects where different technical disciplines have to become **one coherent system**.
+My background combines production ML, full-cycle product engineering, infrastructure and rapid R&D. I especially enjoy projects where several technical disciplines have to become **one coherent system**.
 
-**Main engineering space:**  
+**Main engineering space**  
 `ML / AI` · `Backend` · `Frontend` · `Mobile` · `DevOps` · `Architecture`
 
 </td>
@@ -132,7 +139,13 @@ Idea to production
 
 <div align="center">
 
-`RESEARCH` → `ARCHITECTURE` → `ENGINEERING` → `PRODUCTION`
+<img src="https://img.shields.io/badge/RESEARCH-111827?style=for-the-badge" alt="Research"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0F172A?style=for-the-badge" alt="to"/>
+<img src="https://img.shields.io/badge/ARCHITECTURE-1D4ED8?style=for-the-badge" alt="Architecture"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0F172A?style=for-the-badge" alt="to"/>
+<img src="https://img.shields.io/badge/ENGINEERING-7C3AED?style=for-the-badge" alt="Engineering"/>
+<img src="https://img.shields.io/badge/%E2%86%92-0F172A?style=for-the-badge" alt="to"/>
+<img src="https://img.shields.io/badge/PRODUCTION-A3FF12?style=for-the-badge&labelColor=111827&color=A3FF12" alt="Production"/>
 
 </div>
 
@@ -534,15 +547,25 @@ Tech Leadership
 
 ---
 
-<h2 align="center">06 / GITHUB ACTIVITY</h2>
+<h2 align="center">06 / GITHUB OVERVIEW</h2>
 
 <div align="center">
 
 <img
-  width="100%"
-  src="https://github-readme-activity-graph.vercel.app/graph?username=BitsOfDanya&bg_color=0D1117&color=94A3B8&line=38BDF8&point=A3FF12&area=true&area_color=8B5CF6&hide_border=true&radius=8&custom_title=Contribution%20Activity"
-  alt="GitHub contribution activity"
+  height="170"
+  src="https://github-readme-stats.vercel.app/api?username=BitsOfDanya&show_icons=true&hide_border=true&theme=transparent&rank_icon=github&include_all_commits=true"
+  alt="GitHub Stats"
 />
+
+<img
+  height="170"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=BitsOfDanya&layout=compact&hide_border=true&theme=transparent&langs_count=10"
+  alt="Top Languages"
+/>
+
+<br/><br/>
+
+<sub>Language statistics reflect public repository data, not full professional proficiency.</sub>
 
 </div>
 
@@ -567,5 +590,13 @@ Tech Leadership
 <br/><br/>
 
 <sub>Daniil Chepko · BitsOfDanya</sub>
+
+<br/><br/>
+
+<img
+  width="100%"
+  src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:0F172A,24:1D4ED8,55:7C3AED,100:A3FF12"
+  alt=""
+/>
 
 </div>
