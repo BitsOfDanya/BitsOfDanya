@@ -410,7 +410,7 @@ The platform combines document analysis, risk-oriented workflows, knowledge retr
 <tr>
 <td width="50%" valign="top">
 
-### `03 / POLYK`
+### `03 / POLYK APP`
 
 **University / Student Ecosystem**
 
