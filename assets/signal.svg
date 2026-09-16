@@ -1,0 +1,36 @@
+<svg width="1600" height="104" viewBox="0 0 1600 104" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="line" x1="80" y1="0" x2="1520" y2="0" gradientUnits="userSpaceOnUse">
+      <stop stop-color="#A3FF12"/>
+      <stop offset=".25" stop-color="#38BDF8"/>
+      <stop offset=".55" stop-color="#8B5CF6"/>
+      <stop offset=".8" stop-color="#EC4899"/>
+      <stop offset="1" stop-color="#F59E0B"/>
+    </linearGradient>
+  </defs>
+  <rect width="1600" height="104" rx="22" fill="#090E18"/>
+  <path d="M72 52H1528" stroke="#1E293B" stroke-width="2"/>
+  <path d="M72 52H1528" stroke="url(#line)" stroke-width="3" stroke-linecap="round" stroke-dasharray="170 1286">
+    <animate attributeName="stroke-dashoffset" values="0;-1456" dur="7s" repeatCount="indefinite"/>
+  </path>
+
+  <g fill="#CBD5E1" font-family="Courier New, monospace" font-size="17" font-weight="700" letter-spacing="1">
+    <text x="86" y="35">ML / AI</text>
+    <text x="368" y="35">BACKEND</text>
+    <text x="646" y="35">FRONTEND</text>
+    <text x="936" y="35">MOBILE</text>
+    <text x="1194" y="35">SYSTEMS</text>
+    <text x="1420" y="35">SHIP</text>
+  </g>
+
+  <g>
+    <circle cx="112" cy="52" r="6" fill="#A3FF12"/>
+    <circle cx="414" cy="52" r="6" fill="#38BDF8"/>
+    <circle cx="703" cy="52" r="6" fill="#8B5CF6"/>
+    <circle cx="984" cy="52" r="6" fill="#EC4899"/>
+    <circle cx="1260" cy="52" r="6" fill="#F59E0B"/>
+    <circle cx="1478" cy="52" r="6" fill="#F8FAFC"/>
+  </g>
+
+  <text x="86" y="83" fill="#64748B" font-family="Courier New, monospace" font-size="14">models → APIs → products → clients → infra → production</text>
+</svg>
