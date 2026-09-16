@@ -1,0 +1,69 @@
+<svg width="1600" height="460" viewBox="0 0 1600 460" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="flow" x1="120" y1="0" x2="1480" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#A3FF12"/>
+    <stop offset=".25" stop-color="#38BDF8"/>
+    <stop offset=".55" stop-color="#8B5CF6"/>
+    <stop offset=".8" stop-color="#EC4899"/>
+    <stop offset="1" stop-color="#F59E0B"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="460" rx="30" fill="#090E18"/>
+<text x="70" y="62" fill="#64748B" font-family="Courier New, monospace" font-size="16" font-weight="700" letter-spacing="1.5">SYSTEM MAP / HOW I CONNECT THE LAYERS</text>
+
+<g font-family="Arial, Helvetica, sans-serif">
+  <g>
+    <rect x="70" y="120" width="230" height="92" rx="18" fill="#0E1625" stroke="#A3FF12"/>
+    <text x="96" y="156" fill="#A3FF12" font-size="15" font-weight="700">01</text>
+    <text x="96" y="187" fill="#F8FAFC" font-size="22" font-weight="800">PROBLEM</text>
+  </g>
+
+  <g>
+    <rect x="350" y="120" width="230" height="92" rx="18" fill="#0E1625" stroke="#38BDF8"/>
+    <text x="376" y="156" fill="#38BDF8" font-size="15" font-weight="700">02</text>
+    <text x="376" y="187" fill="#F8FAFC" font-size="22" font-weight="800">ARCHITECTURE</text>
+  </g>
+
+  <g>
+    <rect x="630" y="120" width="230" height="92" rx="18" fill="#0E1625" stroke="#8B5CF6"/>
+    <text x="656" y="156" fill="#A78BFA" font-size="15" font-weight="700">03</text>
+    <text x="656" y="187" fill="#F8FAFC" font-size="22" font-weight="800">BUILD</text>
+  </g>
+
+  <g>
+    <rect x="910" y="120" width="230" height="92" rx="18" fill="#0E1625" stroke="#EC4899"/>
+    <text x="936" y="156" fill="#F472B6" font-size="15" font-weight="700">04</text>
+    <text x="936" y="187" fill="#F8FAFC" font-size="22" font-weight="800">INTEGRATE</text>
+  </g>
+
+  <g>
+    <rect x="1190" y="120" width="230" height="92" rx="18" fill="#0E1625" stroke="#F59E0B"/>
+    <text x="1216" y="156" fill="#F59E0B" font-size="15" font-weight="700">05</text>
+    <text x="1216" y="187" fill="#F8FAFC" font-size="22" font-weight="800">PRODUCTION</text>
+  </g>
+</g>
+
+<path d="M300 166H350M580 166H630M860 166H910M1140 166H1190" stroke="url(#flow)" stroke-width="3" stroke-dasharray="10 8">
+  <animate attributeName="stroke-dashoffset" values="0;-36" dur="1.7s" repeatCount="indefinite"/>
+</path>
+
+<g font-family="Courier New, monospace" font-size="15" fill="#94A3B8">
+  <text x="80" y="278">ML / AI</text>
+  <text x="80" y="312">models · embeddings · retrieval · inference</text>
+
+  <text x="565" y="278">SOFTWARE</text>
+  <text x="565" y="312">APIs · services · web · mobile · data</text>
+
+  <text x="1110" y="278">SYSTEMS</text>
+  <text x="1110" y="312">infra · CI/CD · deployment · delivery</text>
+</g>
+
+<path d="M80 350H1518" stroke="#1E293B" stroke-width="2"/>
+<path d="M80 350H1518" stroke="url(#flow)" stroke-width="3" stroke-dasharray="190 1250">
+  <animate attributeName="stroke-dashoffset" values="0;-1440" dur="7s" repeatCount="indefinite"/>
+</path>
+
+<text x="80" y="402" fill="#64748B" font-family="Courier New, monospace" font-size="15">
+  One product system, not isolated layers.
+</text>
+</svg>

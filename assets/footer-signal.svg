@@ -1,0 +1,24 @@
+<svg width="1600" height="118" viewBox="0 0 1600 118" fill="none" xmlns="http://www.w3.org/2000/svg">
+<defs>
+  <linearGradient id="line" x1="80" y1="0" x2="1520" y2="0" gradientUnits="userSpaceOnUse">
+    <stop stop-color="#A3FF12"/>
+    <stop offset=".25" stop-color="#38BDF8"/>
+    <stop offset=".55" stop-color="#8B5CF6"/>
+    <stop offset=".8" stop-color="#EC4899"/>
+    <stop offset="1" stop-color="#F59E0B"/>
+  </linearGradient>
+</defs>
+<rect width="1600" height="118" rx="24" fill="#090E18"/>
+<path d="M84 58H1516" stroke="#1E293B" stroke-width="2"/>
+<path d="M84 58H1516" stroke="url(#line)" stroke-width="3" stroke-dasharray="180 1250">
+  <animate attributeName="stroke-dashoffset" values="0;-1430" dur="6.5s" repeatCount="indefinite"/>
+</path>
+<g fill="#CBD5E1" font-family="Courier New, monospace" font-size="15" font-weight="700" letter-spacing="1">
+  <text x="86" y="34">RESEARCH</text>
+  <text x="356" y="34">ARCHITECTURE</text>
+  <text x="690" y="34">ENGINEERING</text>
+  <text x="1044" y="34">INTEGRATION</text>
+  <text x="1360" y="34">SHIP</text>
+</g>
+<text x="86" y="92" fill="#64748B" font-family="Courier New, monospace" font-size="14">build systems that survive contact with real users</text>
+</svg>

@@ -1,7 +1,7 @@
 <!--
-BITS OF DANYA / PROFILE README
-Design: editorial engineering portfolio.
-Local SVG assets are self-hosted in this repository to avoid rate limits and broken third-party stat cards.
+BITS OF DANYA — PROFILE README
+Goal: technical portfolio, not a widget wall.
+Local SVGs are self-hosted in this repository.
 -->
 
 <div align="center">
@@ -23,39 +23,34 @@ Local SVG assets are self-hosted in this repository to avoid rate limits and bro
 
 <table width="100%" align="center">
 <tr>
-<td width="64%" valign="top">
+<td width="63%" valign="top">
 
-### I build the whole thing.
+### 30-second profile
 
 I'm **Daniil Chepko** — an **ML Engineer, Software Engineer and Tech Lead**.
 
-My strongest specialization is production-oriented **Machine Learning**: Computer Vision, video understanding, NLP, embeddings, retrieval and multimodal systems. I care about the part after the notebook too — inference, integration, latency, data flows and how the model behaves inside a real product.
+My strongest specialization is production-oriented **Machine Learning**: Computer Vision, video understanding, NLP, embeddings, retrieval and multimodal systems. I care about the part after the experiment too — inference, integration, data flow, latency and how the model behaves inside a real product.
 
-I also work across **backend, frontend, mobile and infrastructure**. I design APIs and data models, build product interfaces, connect mobile clients, containerize services and make technical decisions across the system.
+I also work across **backend, frontend, mobile and infrastructure**. I design APIs and data models, build product interfaces, connect clients, containerize services and make technical decisions across the system.
 
-The kind of work I enjoy most is where a vague product idea has to become something real:
-
-**research → architecture → implementation → integration → release**
+The common thread is simple: I like taking a difficult product or engineering problem and turning it into a working system.
 
 </td>
-<td width="36%" valign="top">
+<td width="37%" valign="top">
 
-### Snapshot
+### Engineering scope
 
-**Main role**  
-ML / Software Engineer
+**Primary**  
+Production ML · AI systems
 
-**Also**  
-Tech Lead · Product Engineering
+**Strong**  
+Backend · Architecture · Data
 
-**Strongest areas**  
-Production ML · Backend · Architecture
+**Product layers**  
+Web · Mobile · APIs · Infrastructure
 
-**Product range**  
-Web · Mobile · AI products · Platforms
-
-**Based in**  
-Saint Petersburg
+**Working mode**  
+R&D · 0 → 1 · Production delivery
 
 **Contact**  
 [@bits_of_danya](https://t.me/bits_of_danya)
@@ -75,16 +70,14 @@ Saint Petersburg
 
 <br/>
 
-<div align="center">
-<img src="./assets/signal.svg" width="100%" alt="Engineering signal"/>
-</div>
+<img src="./assets/system-map.svg" width="100%" alt="Engineering system map"/>
 
 ---
 
 <h2 align="center">SELECTED WORK</h2>
 
 <p align="center">
-<sub>Products I have designed, built or led technically.</sub>
+<sub>Products and systems that represent the kind of engineering I do.</sub>
 </p>
 
 <table width="100%" align="center">
@@ -94,10 +87,10 @@ Saint Petersburg
 ### 01 — Cadio
 **SportsTech platform**
 
-An ecosystem for athletes, sports communities, clubs and event organizers. The product brings together community discovery, events, participation and organizer workflows across web and mobile.
+Digital ecosystem for athletes, sports communities, clubs and event organizers. It connects community discovery, events, participant experiences and organizer workflows across web and mobile.
 
-**What matters here**  
-Product architecture · web/mobile experience · platform thinking
+**Engineering surface**  
+Product architecture · web/mobile · backend integration · platform thinking
 
 `SportsTech` `Web` `Mobile` `Community`
 
@@ -107,10 +100,10 @@ Product architecture · web/mobile experience · platform thinking
 ### 02 — TrustDesk
 **AI workspace for business**
 
-A B2B product for working with documents and organizational knowledge: analysis, retrieval, AI-assisted workflows, risks, decision rooms and auditable collaboration.
+B2B workspace for document intelligence, organizational knowledge and decision-making. It combines document analysis, retrieval, AI-assisted workflows, risk-oriented flows and collaboration.
 
-**What matters here**  
-AI product design · RAG · backend/data · complex workflows
+**Engineering surface**  
+AI product design · RAG · backend/data · complex business workflows
 
 `AI` `B2B SaaS` `RAG` `Knowledge Work`
 
@@ -120,12 +113,12 @@ AI product design · RAG · backend/data · complex workflows
 <td width="50%" valign="top">
 
 ### 03 — PolyK
-**Student / university ecosystem**
+**University / student ecosystem**
 
-A platform for university knowledge and everyday student workflows: teachers, reviews, materials, mentoring, requests and community-driven services in one place.
+Platform around teachers, reviews, educational materials, mentoring, student requests and community-driven services — turning fragmented university knowledge into a practical digital product.
 
-**What matters here**  
-Marketplace mechanics · community product · backend/platform architecture
+**Engineering surface**  
+Community product · marketplace mechanics · APIs · platform architecture
 
 `EdTech` `Community` `Marketplace` `Platform`
 
@@ -135,10 +128,10 @@ Marketplace mechanics · community product · backend/platform architecture
 ### 04 — KARETA
 **Gaming community platform**
 
-A mobile-first gaming ecosystem combining social content, profiles, communication, tournaments, marketplace mechanics and user-created experiences.
+Mobile-first gaming ecosystem combining profiles, social content, communication, tournaments, marketplace mechanics and user-created experiences.
 
-**What matters here**  
-Realtime product flows · mobile platform · social + transactional mechanics
+**Engineering surface**  
+Mobile platform · realtime product flows · social + transactional mechanics
 
 `Gaming` `Mobile` `Social` `Marketplace`
 
@@ -150,10 +143,10 @@ Realtime product flows · mobile platform · social + transactional mechanics
 ### 05 — SmartBloodTest
 **MedTech / image analysis**
 
-A workflow for laboratory image processing and blood-group phenotyping: image submission, preliminary automated analysis, result presentation and remote validation by a laboratory specialist.
+Software workflow for laboratory image processing and blood-group phenotyping: image submission, preliminary automated analysis, result presentation and remote validation by a laboratory specialist.
 
-**What matters here**  
-Computer Vision · medical workflow · backend + web/mobile integration
+**Engineering surface**  
+Computer Vision · medical workflow · backend · web/mobile integration
 
 `MedTech` `Computer Vision` `Automation` `Workflow`
 
@@ -163,10 +156,10 @@ Computer Vision · medical workflow · backend + web/mobile integration
 ### 06 — ML / Hackathon R&D
 **Applied engineering under constraints**
 
-Research and product prototypes across Computer Vision, NLP, multimodal ML, retrieval, agents and backend systems — usually built under hard time, data or compute constraints.
+Research and product prototypes across Computer Vision, NLP, multimodal ML, retrieval, LLM agents and backend systems — often built under strict time, data or compute constraints.
 
-**What matters here**  
-Fast research · technical decisions · prototype → demo
+**Engineering surface**  
+Fast research · architecture · prototype → working demo
 
 `ML` `R&D` `Backend` `Architecture`
 
@@ -176,11 +169,62 @@ Fast research · technical decisions · prototype → demo
 
 ---
 
-<h2 align="center">TECHNOLOGY</h2>
+<h2 align="center">TECHNICAL SURFACE</h2>
+
+<table width="100%" align="center">
+<tr>
+<td width="33%" valign="top">
+
+### Intelligence
+
+Computer Vision  
+Video Understanding  
+NLP  
+Embeddings  
+Multimodal ML  
+Retrieval / RAG  
+Vector Search  
+Inference
+
+</td>
+<td width="33%" valign="top">
+
+### Software
+
+Backend Services  
+REST / WebSocket APIs  
+Web Products  
+Mobile Apps  
+Databases  
+Workers / Jobs  
+Integrations  
+Product Interfaces
+
+</td>
+<td width="33%" valign="top">
+
+### Systems
+
+System Design  
+Data Modeling  
+Infrastructure  
+CI/CD  
+Deployment  
+Technical Strategy  
+Delivery  
+Tech Leadership
+
+</td>
+</tr>
+</table>
+
+---
+
+<h2 align="center">STACK</h2>
 
 <div align="center">
 
-<sub>Languages I use across product and engineering work</sub>
+<sub>Languages</sub>
 
 <br/><br/>
 
@@ -188,7 +232,7 @@ Fast research · technical decisions · prototype → demo
 
 <br/><br/>
 
-<sub>Frameworks, platforms and infrastructure</sub>
+<sub>Frameworks · data · infrastructure</sub>
 
 <br/><br/>
 
@@ -207,19 +251,19 @@ Fast research · technical decisions · prototype → demo
 **Core**  
 `Python` · `C++` · `PyTorch` · `OpenCV`
 
-**Data / ML**  
+**Data / classical ML**  
 `NumPy` · `Pandas` · `scikit-learn` · `Feature Engineering`
 
 **Computer Vision**  
-`Image Classification` · `Video Understanding` · `Feature Extraction` · `Visual Embeddings`
+`Image Classification` · `Video Classification` · `Feature Extraction` · `Visual Embeddings`
 
-**NLP / Representation**  
+**NLP / representation learning**  
 `Transformers` · `Text Classification` · `Embeddings` · `Semantic Similarity`
 
-**AI Systems**  
+**AI systems**  
 `Multimodal ML` · `RAG` · `LLM APIs` · `LangChain` · `LangGraph` · `Vector Retrieval`
 
-**Production**  
+**Production ML**  
 `Training Pipelines` · `Evaluation` · `Inference` · `Model Integration` · `Latency-aware ML`
 
 </td>
@@ -242,7 +286,7 @@ Fast research · technical decisions · prototype → demo
 **Services**  
 `Authentication` · `Workers` · `Jobs` · `Object Storage` · `Integrations`
 
-**Architecture**  
+**Engineering**  
 `Data Modeling` · `API Contracts` · `Service Design` · `Business Logic`
 
 </td>
@@ -258,13 +302,13 @@ Fast research · technical decisions · prototype → demo
 **Core**  
 `React` · `Next.js` · `Vite`
 
-**UI**  
+**UI / styling**  
 `Tailwind CSS` · `shadcn/ui` · `Responsive UI` · `Design Systems`
 
-**Products**  
-`SaaS Interfaces` · `Dashboards` · `Admin Panels` · `Landing Pages`
+**Product interfaces**  
+`SaaS` · `Dashboards` · `Admin Panels` · `Landing Pages`
 
-**Engineering**  
+**Frontend engineering**  
 `Authentication Flows` · `API Integration` · `Client State` · `Reusable Components`
 
 </td>
@@ -278,7 +322,7 @@ Fast research · technical decisions · prototype → demo
 **Platforms**  
 `iOS` · `Android`
 
-**App Engineering**  
+**App engineering**  
 `Navigation` · `State Management` · `Authentication` · `API Integration`
 
 **Infrastructure**  
@@ -339,41 +383,32 @@ Release Preparation
 
 ---
 
-<h2 align="center">HOW I WORK</h2>
+<h2 align="center">ENGINEERING PRACTICE</h2>
 
 <table width="100%" align="center">
 <tr>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### 01 / Understand
-Figure out what actually needs to be solved.
-
-`problem`  
-`constraints`  
-`data`  
-`success metric`
+### 01 / Frame
+Understand the actual problem, constraints, data and target outcome.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
 ### 02 / Design
-Choose the simplest architecture that can survive the product.
-
-`system boundaries`  
-`data model`  
-`API contracts`  
-`ML approach`
+Choose architecture, interfaces and boundaries before adding complexity.
 
 </td>
-<td width="33%" valign="top">
+<td width="25%" valign="top">
 
-### 03 / Ship
-Connect the layers and get a real scenario working.
+### 03 / Build
+Implement the smallest coherent system that proves the product scenario.
 
-`implementation`  
-`integration`  
-`deployment`  
-`iteration`
+</td>
+<td width="25%" valign="top">
+
+### 04 / Ship
+Integrate the layers, deploy, validate and iterate against reality.
 
 </td>
 </tr>
@@ -381,34 +416,30 @@ Connect the layers and get a real scenario working.
 
 <br/>
 
-> **I don't care about putting the maximum number of technologies into a project. I care about choosing the right ones and getting the whole system to work.**
+> **The goal is not to use the maximum number of technologies. The goal is to make the whole system work — clearly, reliably and with a reason for every major technical decision.**
 
 ---
 
-<h2 align="center">CURRENT SIGNAL</h2>
+<h2 align="center">WHAT I BRING</h2>
 
 <table width="100%" align="center">
 <tr>
 <td width="50%" valign="top">
 
-### Building around
+### Cross-layer ownership
 
-`Production ML`  
-`Multimodal systems`  
-`Backend architecture`  
-`AI products`  
-`Web / mobile platforms`
+I can move between model logic, backend services, data, product UI, mobile clients and deployment without treating them as unrelated worlds.
+
+That is especially useful in **AI products**, where the quality of the final system depends on much more than the model itself.
 
 </td>
 <td width="50%" valign="top">
 
-### Interested in
+### Fast technical execution
 
-`Hard engineering problems`  
-`0 → 1 products`  
-`Applied AI`  
-`Architecture`  
-`Strong technical teams`
+Hackathons and R&D work trained me to understand unfamiliar domains quickly, cut through unnecessary complexity and get a technically credible scenario working under hard constraints.
+
+The same mindset is useful for **MVPs, prototypes and 0 → 1 product work**.
 
 </td>
 </tr>
@@ -418,11 +449,11 @@ Connect the layers and get a real scenario working.
 
 <div align="center">
 
-<img src="./assets/signal.svg" width="100%" alt="Engineering signal"/>
+<img src="./assets/footer-signal.svg" width="100%" alt="Engineering signal"/>
 
 <br/>
 
-### Have a hard problem worth building?
+### Have a hard technical problem worth building?
 
 <a href="https://t.me/bits_of_danya">
   <img src="https://img.shields.io/badge/TALK_TO_ME-@bits__of__danya-A3FF12?style=for-the-badge&logo=telegram&logoColor=08090B&labelColor=111827" alt="Telegram"/>
