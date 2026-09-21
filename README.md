@@ -87,7 +87,7 @@ R&D · 0 → 1 · Production delivery
 ### 01 — Cadio
 **SportsTech platform**
 
-Digital ecosystem for athletes, sports communities, clubs and event organizers. It connects community discovery, events, participant experiences and organizer workflows across web and mobile.
+Digital ecosystem for athletes, sports communities, clubs and event organizers. It connects community discovery, events, participant experiences and organizer workflows across web and mobile
 
 **Engineering surface**  
 Product architecture · web/mobile · backend integration · platform thinking
