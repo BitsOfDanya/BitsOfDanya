@@ -49,9 +49,6 @@ Backend · Architecture · Data
 **Product layers**  
 Web · Mobile · APIs · Infrastructure
 
-**Working mode**  
-R&D · 0 → 1 · Production delivery
-
 **Contact**  
 [@bits_of_danya](https://t.me/bits_of_danya)
 
