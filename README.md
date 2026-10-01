@@ -27,7 +27,7 @@ Local SVGs are self-hosted in this repository.
 
 ### 30-second profile
 
-I'm **Daniil Chepko** — an **ML Engineer, Software Engineer and Tech Lead**.
+I'm **Daniil Chepko** — an **ML Engineer, Software Engineer and Tech Lead**
 
 My strongest specialization is production-oriented **Machine Learning**: Computer Vision, video understanding, NLP, embeddings, retrieval and multimodal systems. I care about the part after the experiment too — inference, integration, data flow, latency and how the model behaves inside a real product.
 
