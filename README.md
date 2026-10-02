@@ -458,6 +458,6 @@ The same mindset is useful for **MVPs, prototypes and 0 → 1 product work**.
 
 <br/><br/>
 
-<sub>Daniil Chepko · BitsOfDanya</sub>
+<sub>Daniil Chepko</sub>
 
 </div>
