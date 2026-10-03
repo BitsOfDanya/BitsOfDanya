@@ -436,7 +436,7 @@ That is especially useful in **AI products**, where the quality of the final sys
 
 Hackathons and R&D work trained me to understand unfamiliar domains quickly, cut through unnecessary complexity and get a technically credible scenario working under hard constraints.
 
-The same mindset is useful for **MVPs, prototypes and 0 → 1 product work**.
+The same mindset is useful for **MVPs, prototypes**.
 
 </td>
 </tr>
