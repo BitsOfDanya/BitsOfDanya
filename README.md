@@ -458,6 +458,6 @@ The same mindset is useful for **MVPs, prototypes**.
 
 <br/><br/>
 
-<sub>Daniil Chepko</sub>
+<sub>Daniil</sub>
 
 </div>
